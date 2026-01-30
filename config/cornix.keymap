@@ -1,1 +1,87 @@
-{"version": 1, "uid": 16882930253541522617, "layout": [[["KC_TAB", "KC_Q", "KC_W", "KC_E", "KC_R", "KC_T", -1], ["KC_CAPSLOCK", "KC_A", "KC_S", "KC_D", "KC_F", "KC_G", -1], ["KC_LSHIFT", "KC_Z", "KC_X", "KC_C", "KC_V", "KC_B", "KC_MPLY"], ["KC_LCTRL", "KC_LGUI", "KC_LALT", "MO(2)", "KC_SPACE", "KC_SPACE", -1], ["KC_BSPACE", "KC_P", "KC_O", "KC_I", "KC_U", "KC_Y", -1], ["KC_ENTER", "KC_BSLASH", "KC_L", "KC_K", "KC_J", "KC_H", "TO(9)"], ["KC_SLASH", "KC_UP", "KC_DOT", "KC_COMMA", "KC_M", "KC_N", -1], ["KC_RIGHT", "KC_DOWN", "KC_LEFT", "MO(3)", "KC_SPACE", "MO(1)", -1]], [["KC_ESCAPE", "KC_1", "KC_2", "KC_3", "KC_4", "KC_5", -1], ["KC_GRAVE", "KC_NO", "KC_NO", "KC_NO", "KC_SCOLON", "KC_MINUS", -1], ["KC_LSHIFT", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_MUTE"], ["TO(1)", "KC_NO", "KC_NO", "MO(2)", "KC_NO", "TO(0)", -1], ["KC_DELETE", "KC_0", "KC_9", "KC_8", "KC_7", "KC_6", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_QUOTE", "KC_EQUAL", "KC_BTN3"], ["KC_NO", "KC_MUTE", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_MNXT", "KC_MPLY", "KC_MPRV", "MO(3)", "KC_NO", "TO(0)", -1]], [["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["USER00", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["USER01", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["USER02", "USER04", "USER03", "TO(2)", "KC_NO", "TO(0)", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "USER07"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "MO(3)", "KC_NO", "MO(1)", -1]], [["KC_F1", "KC_F2", "KC_F3", "KC_F6", "KC_F4", "KC_F5", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_LSHIFT", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_MUTE"], ["KC_LCTRL", "KC_LGUI", "KC_LALT", "MO(2)", "KC_NO", "TO(0)", -1], ["KC_F12", "KC_F11", "KC_F10", "KC_F9", "KC_F8", "KC_F7", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_BTN3"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "MO(3)", "KC_NO", "MO(1)", -1]], [["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_MUTE"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_BTN3"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1]], [["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_MUTE"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_BTN3"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1]], [["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_MUTE"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_BTN3"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1]], [["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_MUTE"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_BTN3"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1]], [["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_MUTE"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_BTN3"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1]], [["KC_TAB", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", -1], ["KC_LSHIFT", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_MSEL"], ["KC_LCTRL", "KC_LGUI", "KC_LALT", "KC_NO", "KC_SPACE", "TO(0)", -1], ["KC_BSPACE", "KC_KP_MINUS", "KC_KP_9", "KC_KP_8", "KC_KP_7", "KC_KP_SLASH", -1], ["KC_ENTER", "KC_KP_PLUS", "KC_KP_6", "KC_KP_5", "KC_KP_4", "KC_KP_ASTERISK", "KC_CALC"], ["KC_ENTER", "KC_KP_EQUAL", "KC_KP_3", "KC_KP_2", "KC_KP_1", "KC_NO", -1], ["KC_NO", "KC_KP_ENTER", "KC_KP_DOT", "KC_KP_0", "KC_SPACE", "TO(0)", -1]]], "encoder_layout": [[["KC_VOLD", "KC_VOLU"], ["KC__VOLDOWN", "KC__VOLUP"]], [["KC_VOLD", "KC_VOLU"], ["KC_WH_U", "KC_WH_D"]], [["KC_VOLD", "KC_VOLU"], ["KC_WH_U", "KC_WH_D"]], [["KC_VOLD", "KC_VOLU"], ["KC_WH_U", "KC_WH_D"]], [["KC_VOLD", "KC_VOLU"], ["KC_WH_U", "KC_WH_D"]], [["KC_VOLD", "KC_VOLU"], ["KC_WH_U", "KC_WH_D"]], [["KC_VOLD", "KC_VOLU"], ["KC_WH_U", "KC_WH_D"]], [["KC_VOLD", "KC_VOLU"], ["KC_WH_U", "KC_WH_D"]], [["KC_VOLD", "KC_VOLU"], ["KC_WH_U", "KC_WH_D"]], [["KC_VOLD", "KC_VOLU"], ["KC_WH_U", "KC_WH_D"]]], "layout_options": 0, "macro": [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], []], "vial_protocol": 6, "via_protocol": 9, "tap_dance": [["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", 250]], "combo": [["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"], ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"]], "key_override": [], "alt_repeat_key": [], "settings": {"2": 50, "6": 1000, "7": 250, "18": 20, "19": 20, "22": 1, "23": 0, "26": 1, "27": 120}}
+/ {
+  keymap {
+    compatible = "zmk,keymap";
+
+    /* Layer 0: Base (from your Vial JSON layer 0) */
+    default_layer {
+      bindings = <
+        &kp TAB   &kp Q     &kp W     &kp E     &kp R     &kp T
+ :contentReference[oaicite:8]{index=8}kp A  &kp S     &kp D     &kp F     &kp G
+        &kp LSHIFT &kp Z    &kp X     &kp C     &kp V     &kp B     &kp C_PLAY_PAUSE
+        &kp LCTRL &kp LGUI  &kp LALT  &mo 2     &kp SPACE &kp SPACE
+
+        &kp BSPC  &kp P     &kp O     &kp I     &kp U     &kp Y
+        &kp ENTER &kp BSLH  &kp L     &kp K     &kp J     &kp H     &to 9
+        &kp SLASH &kp UP    &kp DOT   &kp COMMA &kp M     &kp N
+        &kp RIGHT &kp DOWN  &kp LEFT  &mo 3     &kp SPACE &mo 1
+      >;
+    };
+
+    /* Layer 1 (your JSON layer 1) */
+    layer_1 {
+      bindings = <
+        &kp ESC   &kp N1    &kp N2    &kp N3    &kp N4    &kp N5
+        &kp GRAVE &none     &none     &none     &kp SEMI  &kp MINUS
+        &kp LSHIFT &none    &none     &none     &none     &none     &kp C_MUTE
+        &to 1     &none     &none     &mo 2     &none     &to 0
+
+        &kp DEL   &kp N0    &kp N9    &kp N8    &kp N7    &kp N6
+        &none     &none     &none     &none     &kp SQT   &kp EQUAL &kp MB3
+        &none     &kp C_MUTE &none    &none     &none     &none
+        &kp C_NEXT &kp C_PLAY_PAUSE &kp C_PREV &mo 3 &none &to 0
+      >;
+    };
+
+    /* Layer 2 (your JSON layer 2) — USERxx mapped to &none for now */
+    layer_2 {
+      bindings = <
+        &none &none &none &none &none &none
+        &none &none &none &none &none &none
+        &none &none &none &none &none &none &none
+        &none &none &none &to 2 &none &to 0
+
+        &none &none &none &none &none &none
+        &none &none &none &none &none &none &none
+        &none &none &none &none &none &none
+        &none &none &none &mo 3 &none &mo 1
+      >;
+    };
+
+    /* Layer 3 (your JSON layer 3) */
+    layer_3 {
+      bindings = <
+        &kp F1  &kp F2  &kp F3  &kp F6  &kp F4  &kp F5
+        &none   &none   &none   &none   &none   &none
+        &kp LSHIFT &none &none  &none   &none   &none   &kp C_MUTE
+        &kp LCTRL &kp LGUI &kp LALT &mo 2 &none &to 0
+
+        &kp F12 &kp F11 &kp F10 &kp F9 &kp F8 &kp F7
+        &none   &none   &none   &none  &none  &none  &kp MB3
+        &none   &none   &none   &none  &none  &none
+        &none   &none   &none   &mo 3  &none  &mo 1
+      >;
+    };
+
+    /* Layers 4–8 unused in your file: keep empty safely */
+    layer_4 { bindings = < &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none >; };
+    layer_5 { bindings = < &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none >; };
+    layer_6 { bindings = < &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none >; };
+    layer_7 { bindings = < &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none >; };
+    layer_8 { bindings = < &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none &none &none &none &none &none  &none &none &none &none &none &none  &none &none >; };
+
+    /* Layer 9 (your JSON layer 9) */
+    layer_9 {
+      bindings = <
+        &kp TAB  &none     &none     &none     &none     &none
+        &none    &none     &none     &none     &none     &none
+        &kp LSHIFT &none   &none     &none     &none     &none     &kp C_MEDIA_SELECT
+        &kp LCTRL &kp LGUI &kp LALT  &none     &kp SPACE &to 0
+
+        &kp BSPC &kp KP_MINUS &kp KP_N9 &kp KP_N8 &kp KP_N7 &kp KP_SLASH
+        &kp ENTER &kp KP_PLUS &kp KP_N6 &kp KP_N5 &kp KP_N4 &kp KP_MULTIPLY &kp CALCULATOR
+        &kp ENTER &kp KP_EQUAL &kp KP_N3 &kp KP_N2 &kp KP_N1 &none
+        &none     &kp KP_ENTER &kp KP_DOT &kp KP_N0 &kp SPACE &to 0
+      >;
+    };
+  };
+};
